@@ -1,0 +1,58 @@
+// Styling for the services section
+.service-heading {
+  margin: 15px 0;
+  text-transform: none;
+}
+
+.fa-shopping-cart:before {
+  content: "\f81b"; }
+
+  .fa-birthday-cake:before{
+    content: "\f1fd"; 
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 400;  
+    font-weight: 900;
+  }
+  .fa-handshake:before{
+    content: "\f2b5"; 
+    font-family: 'Font Awesome 5 Pro';
+    font-weight: 400;  
+    font-weight: 900;
+  }
+.fa-rings-wedding:before {
+    content: "\f81b"; 
+    font-family: 'Font Awesome 5 Pro';
+    // font-family: 'Font Awesome 5 Free';
+    font-weight: 400;  
+    font-weight: 900;
+  }
+  .text-primary{
+    z-index: -20;
+  }
+  .py-5 .event-form{
+    margin: 0 auto;
+    text-align: center;
+  }
+  .py-5 .event-form a{
+    margin-left: 20px;;
+  }
+
+  .intro-lead-in,.intro-heading.text-uppercase  {
+    text-shadow: 1px 1px 1px black;
+}
+
+h4.phone-style{
+  color:#fed136;
+}
+.email-link-style{
+  color:#fed136;
+  font-weight: 700;
+  font-family: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+  font-size: 1.5rem;
+}
+h4.email-link{
+  color:#fed136;
+  font-weight: 700;
+  font-family: Montserrat,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+  font-size: 2.5rem;
+}
